@@ -1,0 +1,28 @@
+_repo: Zoological-Illustrations-or-Original-Figures-and-Descriptions.-Volume-III-Second-Series_44058
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swainson, William
+    alias: Swainson, W. (William)
+    birthdate: 1789
+    deathdate: 1855
+    gutenberg_agent_id: '40036'
+    url: http://www.gutenberg.org/2009/agents/40036
+description: ''
+gutenberg_issued: '2013-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44058'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Pictorial work'
+- !lcc 'QL'
+title: "Zoological Illustrations, Second Series, Volume 3\r\nor, Original Figures\
+  \ and Descriptions of New, Rare, or Interesting Animals"
+url: http://www.gutenberg.org/ebooks/44058
