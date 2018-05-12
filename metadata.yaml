@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40036'
     url: http://www.gutenberg.org/2009/agents/40036
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44058#Zoological-Illustrations-or-Original-Figures-and-Descriptions.-Volume-III-Second-Series
 gutenberg_issued: '2013-10-29'
 gutenberg_type: Text
 identifiers:
